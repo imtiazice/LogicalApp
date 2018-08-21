@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Logical App</string>
+    <string name="title_name_1">Gender</string>
+    <string name="check_name_1">Male</string>
+    <string name="check_name_2">Female</string>
+    <string name="title_name_2">Please Enter Your Height</string>
+    <string name="title_name_3">Highest Weight: </string>
+    <string name="title_name_4">Lowest Weight: </string>
+    <string name="title_name_5">Ideal Weight: </string>
+
+</resources>
